@@ -1,0 +1,14 @@
+{
+    "java.home": "C://Program Files/Java/java-1.8.0-openjdk-1.8.0.212-3.b04.redhat.windows.x86_64"
+    "editor.minimap.enabled": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Theme Bear",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "300",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": true,   
+    },
+}
